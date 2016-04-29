@@ -4,7 +4,7 @@
 #
 Name     : rubygem-ffi
 Version  : 1.9.10
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/ffi-1.9.10.gem
 Source0  : https://rubygems.org/downloads/ffi-1.9.10.gem
 Summary  : Library supporting Foreign Function Interfaces
